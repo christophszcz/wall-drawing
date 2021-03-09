@@ -1,4 +1,7 @@
 // TODO: Create setup() function
+const setup = () => {
+  createCanvas(500, 500);
+};
 
 // Inside the setup() function:
 // TODO: Create canvas 500px wide and 500px high
